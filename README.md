@@ -7,7 +7,7 @@ Additive Cipher Key: A placeholder to simulate additional security without impac
 Loop Support: Enables multiple encryption and decryption operations within a single session.
 
 **User Input**
-Plaintext: 8-character ASCII string for encryption.
+Plaintext: multiple of 8-character ASCII string for encryption.
 Ciphertext: 64-bit binary string for decryption.
 128-bit Key: Binary key used for encryption and decryption.
 Vigenère Key: String key used in specific rounds of the algorithm.
